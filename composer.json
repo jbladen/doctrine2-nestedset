@@ -8,5 +8,9 @@
             "email": "bt@brandonturner.net"
         }
     ],
+    "autoload": {
+        "psr-0": { "DoctrineExtensions\\NestedSet\\": "lib/" }
+    },
     "require": {}
 }
+
