@@ -1,0 +1,12 @@
+{
+    "name": "blt04/doctrine2-nestedset",
+    "description": "Nested Set implementation for Doctrine 2",
+    "license": "LGPL",
+    "authors": [
+        {
+            "name": "Brandon Turner",
+            "email": "bt@brandonturner.net"
+        }
+    ],
+    "require": {}
+}
